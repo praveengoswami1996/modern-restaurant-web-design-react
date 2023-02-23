@@ -13,4 +13,4 @@ This is a fully responsive modern restaurant website design built completely in 
 - Hooks (such as useState)
 - props 
 ## Deploy Link
-https://pg1996-modern-restaurant-website-design.netlify.app/
+https://pg1996-modern-restaurant-web-design.netlify.app/
